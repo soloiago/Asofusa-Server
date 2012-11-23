@@ -1,0 +1,26 @@
+El e-mail sólo se requiere para que cada usuario se identifique de manera unívoca con su móvil. De esta forma, si alguien tiene un comportamiento inadecuado en los foros se podrá vetar su participación. No se usará en ningún caso para el envío de publicidad ni para otro fin que el anteriormente comentado. El "nombre" que se escriba en el cuadro de texto será el que aparecerá en los foros y en las porras.
+
+<b>Clasificación:</b>
+Lista de jugadores-puntos de la porra de la competición
+
+<b>Histórico:</b>
+Lista de porras completadas (porra hecha previamente y partido con resultado final)
+
+<b>Hacer porras:</b>
+- Lista de porras por hacer
+- Lista de porras hechas (aún se desconoce el resultado final del partido)
+
+<b>Puntuación:</b>
+- "Signo" acertado: +3
+- Acertar el número de goles de un equipo: +2
+- Acertar el resultado exacto: 10
+
+<i>Ej1:</i>
+- Porra:  8-5
+- Resultado: 8-5
+- Puntos: 10
+
+<i>Ej2:</i>
+- Porra:  3-6
+- Resultado: 3-5
+- Puntos: 3 (signo) + 2 (3 goles equipo local) = 5
